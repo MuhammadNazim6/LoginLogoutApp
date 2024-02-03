@@ -23,5 +23,5 @@ app.use("/admin", adminRoute);
 
 //listen to port 3000
 app.listen(3000, () => {
-  console.log("server is Running");
+  console.log("server is Running at port 3000");
 });
